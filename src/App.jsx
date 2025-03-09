@@ -56,7 +56,7 @@ const App = () => {
   return (
     <>
       <main
-        className="flex items-center justify-center h-screen w-screen bg-slate-900 gap-10 flex-wrap"
+        className="flex items-center justify-center h-screen w-screen bg-white gap-10 flex-wrap"
         styles={{
           backgroundImage:
             'url("https://s3-alpha-sig.figma.com/img/57e2/2219/06d547fa2080873389d5cdb526033110?Expires=1742169600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=Cc5GKzh4l5tCAWKHrdM995Zj6Mmr~9CKZC6e9cWmYRlfP2l5cvrQAN3a6Jg6aeLwP4d7PHPHGXIALu9RTTnzIezjbi6i03gqIhvQPQoesHkOaS6tBEap1ROtu2aemSJ2wWZyEuXui-x6MGAYDBptqa4zRokUc6j6zvu7p5nTCCaSq6KP1XyLB6LNh22~hn-W2s7y93ywrQBWXZhLPTJrcg~FPxToVDfdPS6-UitAfts788pnbRQm4wioUHdIqcWdZX5p8Z6KWa32f23FJfHTPpIRxjDSLB4FCofJ~KbGDEUj2nQ54XWe4Lb37mcR0Oy7IDA3nqMGcM1Io~8mnSI4dA__")',

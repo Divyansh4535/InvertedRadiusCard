@@ -41,7 +41,10 @@ This project is a React component that displays an inverted card. The card flips
             </div>
         );
     }
-    ```
+    3. Preview this component:
+
+    ![Inverted Card Preview](https://user-images.githubusercontent.com/yourusername/invertedcard-preview.png)
+
 
 ## Props
 

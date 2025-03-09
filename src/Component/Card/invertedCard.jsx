@@ -4,9 +4,9 @@ import "./invertedCard.css";
 const InvertedCard = ({ mainHeading, btnColor, btnText, mainImgSrc }) => {
   return (
     <div className="wrapper">
-      <div className="flex items-center justify-between flex-col w-[400px] h-[500px]   border-2 border-[#F9FAFB4D] rounded-[40px] relative glass">
-        <div className="first-card border-b-2 border-[#F9FAFB4D] w-full flex items-center px-10 justify-start h-[15%]  ">
-          <h1 className="text-white text-2xl font-semibold ">{mainHeading} </h1>
+      <div className="flex items-center justify-between flex-col w-[400px] h-[500px]   border-2 border-[#72727276] border-b-0 rounded-[40px] relative glass">
+        <div className="first-card border-b-2 border-[#72727276] w-full flex items-center px-10 justify-start h-[15%]  ">
+          <h1 className="text-[#72727276] text-2xl font-semibold ">{mainHeading} </h1>
         </div>
 
         <div className="bg-[#757575] w-[80%] h-[40%] flex items-center justify-evenly absolute top-[31%] opacity-[50%] z-30 rounded-t-[40px]"></div>
